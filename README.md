@@ -18,11 +18,11 @@ Your five-hour and weekly limits sit beside the Windows system tray. Glance at t
 
 ## Try it before buying
 
-On the [product page](https://colin-12.itch.io/quota-capsule#demo), click **Download demo** and download the **v1.7.1 Trial ZIP**. Extract the complete ZIP and run QuotaCapsule.exe. The trial starts on first launch and lasts seven consecutive days.
+On the [product page](https://colin-12.itch.io/quota-capsule#demo), click **Download demo** and download the **v1.7.2 Trial ZIP**. Extract the complete ZIP and run QuotaCapsule.exe. The trial starts on first launch and lasts seven consecutive days.
 
 When the trial ends, quota monitoring stops. Nothing is charged. If it fits your workflow, buy the full version and use **Install purchased ZIP** in the app to install the paid ZIP.
 
-The full version is **$2.99 once** on itch.io, for personal use on up to three of your Windows PCs, including 1.x updates offered on the product page. Existing buyers can get v1.7.1 through their original purchase access without paying again.
+The full version is **$1.99 once** on itch.io, for personal use on up to three of your Windows PCs, including 1.x updates offered on the product page. Existing buyers can get v1.7.2 through their original purchase access without paying again.
 
 ## 中文
 
