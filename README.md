@@ -16,13 +16,20 @@ Your five-hour and weekly limits sit beside the Windows system tray. Glance at t
 - Use light or dark appearance and English or Chinese instructions.
 - Extract and run a native portable Windows app. Keep the EXE and its .config together.
 
+## What's new in 1.7.3
+
+- Open **Display & alerts** without the quota cards shifting inward.
+- Scroll the settings page even with your pointer over a closed dropdown, without changing its selected option.
+- Find display settings, refresh, usage page and More together, with more space between buttons. Copy diagnostics has been removed.
+- Full and seven-day trial packages are both updated, in English and Chinese.
+
 ## Try it before buying
 
-On the [product page](https://colin-12.itch.io/quota-capsule#demo), click **Download demo** and download the **v1.7.2 Trial ZIP**. Extract the complete ZIP and run QuotaCapsule.exe. The trial starts on first launch and lasts seven consecutive days.
+On the [product page](https://colin-12.itch.io/quota-capsule#demo), click **Download demo** and download the **v1.7.3 Trial ZIP**. Extract the complete ZIP and run QuotaCapsule.exe. The trial starts on first launch and lasts seven consecutive days.
 
 When the trial ends, quota monitoring stops. Nothing is charged. If it fits your workflow, buy the full version and use **Install purchased ZIP** in the app to install the paid ZIP.
 
-The full version is **$1.99 once** on itch.io, for personal use on up to three of your Windows PCs, including 1.x updates offered on the product page. Existing buyers can get v1.7.2 through their original purchase access without paying again.
+The full version is **$1.99 once** on itch.io, for personal use on up to three of your Windows PCs, including 1.x updates offered on the product page. Existing buyers can get v1.7.3 through their original purchase access without paying again.
 
 ## 中文
 
