@@ -6,7 +6,9 @@ Your five-hour and weekly limits sit beside the Windows system tray. Glance at t
 
 **[Try every feature free for 7 days](https://colin-12.itch.io/quota-capsule#demo)** · No card details. No automatic charge.
 
-![QuotaCapsule 1.7.3 — actual interface with labelled sample data](https://img.itch.zone/aW1nLzMwOTk1NjUxLnBuZw==/315x250%23c/KY7sbL.png)
+![QuotaCapsule 1.7.3 taskbar — labelled sample data](https://img.itch.zone/aW1hZ2UvNDg5Njg0Mi8zMDk5NjU2MC5wbmc=/original/%2FrOHnr.png)
+
+![QuotaCapsule 1.7.3 details — actual interface with labelled sample data](https://img.itch.zone/aW1hZ2UvNDg5Njg0Mi8zMDk5NjU1OS5wbmc=/original/fPFacc.png)
 
 ## What you can do
 
